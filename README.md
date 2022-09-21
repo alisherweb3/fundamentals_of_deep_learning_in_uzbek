@@ -1,2 +1,3 @@
 # fundamentals_of_deep_learning_in_uzbek
-Designing Next-Generation Machine Intelligence Algorithms
+
+Su'niy intellektni Keyingi-Avlod Algoritmini yaratish haqidagi kitob tarjimasi 
