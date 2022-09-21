@@ -1,0 +1,2 @@
+# fundamentals_of_deep_learning_in_uzbek
+Designing Next-Generation Machine Intelligence Algorithms
